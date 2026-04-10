@@ -1,4 +1,3 @@
-# Binarios compilados
 omp1_a
 omp1_b
 omp1_c
@@ -6,6 +5,4 @@ omp2_serial
 omp2_errado
 omp2_correcto
 omp2_otimizado
-
-# Ficheiros de saida
 *.txt
